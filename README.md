@@ -15,3 +15,9 @@ CHEME 5500 Lab 3: Practice with GitHub
 88 bottles of beer on the wall, 88 bottles of beer, you take one down, pass it around, 87 bottles of beer on the wall. 
 
 86 bottles of beer on the wall, 86 bottles of beer, you take one down, pass it around, 85 bottles of beer on the wall. 
+n=90
+for n in range(90,0):
+	number=n; 
+	numberminus1=n-1; 
+	print(str(number)+" bottles of beer on the wall," + str(number) + " bottes of beer, you take one down, pass it around," + str(numberminus1) + " bottles of beer on the wall.")
+	n=n-2; 
