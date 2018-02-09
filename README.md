@@ -12,7 +12,7 @@ CHEME 5500 Lab 3: Practice with GitHub
 91 bottles of beer on the wall, 91 bottles of beer, you take one down, pass it around, 90 bottles of beer on the wall. 
 90 bottles of beer on the wall, 90 bottles of beer, you take one down, pass it around, 89 bottles of beer on the wall. 
 89 bottles of beer on the wall, 89 bottles of beer, you take one down, pass it around, 88 bottles of beer on the wall.
-
+88 bottles of beer on the wall, 88 bottles of beer, you take one down, pass it around, 87 bottles of beer on the wall.
 87 bottles of beer on the wall, 87 bottles of beer, you take one down, pass it around, 86 bottles of beer on the wall.
 
 85 bottles of beer on the wall, 85 bottles of beer, you take one down, pass it around, 84 bottles of beer on the wall.
